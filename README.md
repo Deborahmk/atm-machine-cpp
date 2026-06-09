@@ -1,4 +1,4 @@
-# 🏧 Simple ATM Machine — C++ OOP Project
+# 🏧 Simple ATM Machine - C++ OOP Project
 
 **Author:** Deborah Musuamba  
 **GitHub:** [github.com/Deborahmk](https://github.com/Deborahmk)  
